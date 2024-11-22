@@ -1,1 +1,2 @@
-Zmiana 1 na gałęzi feature.
+State after merge.
+Some changes from feature branch.
