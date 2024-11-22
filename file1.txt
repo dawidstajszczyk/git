@@ -1,1 +1,3 @@
 State after merge.
+Some changes from feature branch.
+
