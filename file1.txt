@@ -1,6 +1,6 @@
 State after merge.
 333
 Some changes from feature branch.
-3432
 Some changes on NewFeature branch.
+34kl
 
