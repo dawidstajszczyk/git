@@ -3,4 +3,7 @@ State after merge.
 Some changes from feature branch.
 Some changes on NewFeature branch.
 34kl
-
+fsaa
+ssdf
+sfdsdf
+sfaf
