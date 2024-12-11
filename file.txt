@@ -1,1 +1,2 @@
 Wiadomośc dodana z poziomu main.
+Wiadomość dodana z poziomu NewFeature.
