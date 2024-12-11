@@ -1,4 +1,5 @@
 Wiadomośc dodana z poziomu main.
 Wiadomość dodana z poziomu NewFeature.
 Kolejna wiadomość dodana z poziomu NewFeature.
+Kolejna kolejna wiadomość dodana z poziomu NewFeature.
 
